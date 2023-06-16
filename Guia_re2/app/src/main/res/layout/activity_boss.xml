@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".boss"
+    android:background="#252525">
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintEnd_toStartOf="@+id/ibtncasa"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toEndOf="@+id/ibtnvoltar"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/boss" />
+
+    <ImageButton
+        android:id="@+id/ibtnvoltar"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="28dp"
+        android:background="@drawable/voltar"
+        app:backgroundTint="@null"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/ibtncasa"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="32dp"
+        android:background="@drawable/casa"
+        app:backgroundTint="@null"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="397dp"
+        android:layout_height="630dp"
+        android:fillViewport="false"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView5"
+        app:layout_constraintVertical_bias="0.824"
+        tools:ignore="MissingConstraints">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="375dp"
+                android:layout_height="845dp"
+                android:orientation="vertical"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <Button
+                    android:id="@+id/btng"
+                    android:layout_width="170dp"
+                    android:layout_height="250dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginTop="30dp"
+                    android:background="@drawable/btn"
+                    app:backgroundTint="#343434" />
+
+                <ImageView
+                    android:layout_width="170dp"
+                    android:layout_height="250dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginTop="-215dp"
+                    android:src="@drawable/g" />
+
+                <TextView
+                    android:id="@+id/g"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="50dp"
+                    android:layout_marginTop="-260dp"
+                    android:text="@string/gvirus"
+                    android:textColor="#fd0038"
+                    android:textSize="20dp" />
+
+                <TextView
+                    android:id="@+id/gh"
+                    android:layout_width="158dp"
+                    android:layout_height="220dp"
+                    android:layout_marginLeft="200dp"
+                    android:layout_marginTop="-40dp"
+                    android:text="@string/gh"
+                    android:textColor="#ffffff"
+                    android:textSize="14dp" />
+
+                <Button
+                    android:id="@+id/btncroco"
+                    android:layout_width="170dp"
+                    android:layout_height="250dp"
+                    android:layout_marginLeft="185dp"
+                    android:layout_marginTop="40dp"
+                    android:background="@drawable/btn"
+                    app:backgroundTint="#343434" />
+
+                <ImageView
+                    android:layout_width="170dp"
+                    android:layout_height="250dp"
+                    android:layout_marginLeft="190dp"
+                    android:layout_marginTop="-215dp"
+                    android:src="@drawable/croco" />
+
+                <TextView
+                    android:id="@+id/croco"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="225dp"
+                    android:layout_marginTop="-260dp"
+                    android:text="@string/croco"
+                    android:textColor="#fd0038"
+                    android:textSize="20dp" />
+
+                <TextView
+                    android:id="@+id/crocoh"
+                    android:layout_width="158dp"
+                    android:layout_height="220dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginTop="-40dp"
+                    android:text="@string/crocoh"
+                    android:textColor="#ffffff"
+                    android:textSize="14dp" />
+
+                <Button
+                    android:id="@+id/btnt"
+                    android:layout_width="170dp"
+                    android:layout_height="250dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginTop="30dp"
+                    android:background="@drawable/btn"
+                    app:backgroundTint="#343434" />
+
+                <ImageView
+                    android:layout_width="170dp"
+                    android:layout_height="250dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginTop="-240dp"
+                    android:src="@drawable/tirano" />
+
+                <TextView
+                    android:id="@+id/tirano"
+                    android:layout_width="wrap_content"
+                    android:layout_height="43dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="-230dp"
+                    android:text="@string/tirano"
+                    android:textColor="#fd0038"
+                    android:textSize="20dp" />
+
+                <TextView
+                    android:id="@+id/tiranoh"
+                    android:layout_width="158dp"
+                    android:layout_height="220dp"
+                    android:layout_marginLeft="200dp"
+                    android:layout_marginTop="-50dp"
+                    android:text="@string/tiranoh"
+                    android:textColor="#ffffff"
+                    android:textSize="14dp" />
+
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

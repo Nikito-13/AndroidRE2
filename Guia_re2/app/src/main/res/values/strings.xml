@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Guia_re2</string>
+    <string name="residentevil2">ResidentEvil2</string>
+    <string name="historia">História</string>
+    <string name="personagem">Personagem</string>
+    <string name="boss">Boss</string>
+    <string name="extra">Extra</string>
+    <string name="conheca">Conheça os outros jogos da franquia</string>
+    <string name="txthistoria">Resident Evil 2 conta a trágica história de Raccoon City, que começa alguns meses depois do Incidente da Mansão, onde os membros dos S.T.A.R.S. descobrem as atividades ilegais da Umbrella envolvendo a produção de armas biológicas com o uso do T-Virus. Os sobreviventes do caso tentam alertar a população, mas são desacreditados por seus próprios superiores.
+As nefastas consequências chegam quando o vírus se espalha pela cidade, e pessoas começam a ficar doente em massa. Mas a situação, que já era desesperadora, fica precária, quando as vítimas da epidemia começam a despertar com instintos de canibalismo. Inevitavelmente Raccoon sucumbe a um completo caos, com zumbis e bizarros monstros, além da compreensão humana, perambulando pelas ruas e fazendo mais e mais vítimas se juntarem ao seu exército de mortos vivos.
+Na noite do dia 29 de Setembro, Leon S. Kennedy, um policial novato do R.P.D., e Claire Redfield, uma universitária em busca de seu irmão desaparecido, chegam na cidade. Percebendo o estranho silêncio nas ruas, Leon é obrigado a parar seu carro quando vê um corpo no meio da rua. Examinando o cadáver, Leon não percebe que está sendo vigiado, mas ao ouvir alguns passos lentos, o rapaz olha para trás e vê várias “pessoas” vindo em sua direção. Elas estavam em decomposição, estavam mortas! Sem escapatória, Leon empunha sua arma e ordena que parem onde estão, mas as elas não obedecem.
+Já em outro lugar da cidade, em um posto de gasolina ali perto, um sujeito reclama de um ferimento feito por uma daquelas criaturas, saindo em seguida com seu caminhão, sem imaginar o que o destino lhe reservava.
+Ao chegar na cidade, Claire entra em uma lanchonete e, também notando o local deserto, procura por alguém lá dentro. Mas o que a jovem encontra é um zumbi, devorando um cadáver! Confusa, Claire se afasta, mas a criatura vai em sua direção. Esbarrando na parede, ela olha pelas janelas e vê que a cidade está infestada, e sua única chance é sair pela porta dos fundos.
+Leon não sabia o que fazer e nem pra onde ir, e inesperadamente, o cadáver que estava examinando agarra seu pé. Não havia outro jeito, se não atirar neles. Recuando sem rumo, ele entra em um beco. O local não tinha saída, apenas uma porta de ferro, que se abre bruscamente. Ele empunha a arma e se prepara para atirar em… Claire! Assustada, a garota pede para que ele não atire, porém ao perceber que estava em perigo, ele pede que ela se abaixe rapidamente, e assim, liquida o morto vivo que a estava perseguindo.
+Sem cerimônias, Leon sugere à garota que sigam para o R.P.D., a delegacia da cidade, pois lá estariam salvos. Correndo pelas ruas, eles encontram uma viatura policial, onde o rapaz tenta se comunicar pelo rádio, mas não funciona. Os dois se apresentam, Leon conta que é seu primeiro dia de trabalho, enquanto Claire diz que está na cidade atrás do seu irmão, Chris. No porta-luvas, Claire encontra uma arma, que levará consigo em caso de perigo por sugestão de Leon. As apresentações acabam quando um zumbi se levanta no banco de trás e ataca Leon. O veículo, completamente desgovernado, se choca com as paredes várias vezes, até bater de frente com um poste, jogando longe o zumbi.
+Tudo parecia estar em ordem novamente por uns poucos milésimos de segundos, até um caminhão desgovernado, com o motorista quase morto, surgir na direção deles. Antes de acontecer uma tragédia, eles pulam do carro, cada um para um lado, e uma explosão os separa. Eles combinam de se encontrar dentro da delegacia, pois lá estariam salvos, mas estavam enganados. É lá que o pesadelo deles realmente tem início.
+</string>
+    <string name="leon">Leon S. Kennedy</string>
+    <string name="protagonista">Protagonista</string>
+    <string name="leonh">Leon se muda para Raccoon em seu primeiro dia de trabalho. O jovem policial, ao chegar à cidade desconhecida, se vê em uma situação inimaginável. </string>
+    <string name="claire">Claire Redfield</string>
+    <string name="claireh">Estudante universitária e apaixonada por motocicletas, Claire entra no pesadelo em Raccoon City em busca de seu irmão, Chris Redfield.</string>
+    <string name="ada">Ada Wong</string>
+    <string name="adah">Ada é uma misteriosa mulher asiática encontrada por Leon na delegacia. Sendo uma pessoa muito discreta e vaga, Ada parece guardar segredos do qual Leon desconhece.</string>
+    <string name="influente">Influente</string>
+    <string name="sherry">Sherry Birkin</string>
+    <string name="sherryh">Sherry é uma garota de apenas doze anos de idade, filha dos renomados cientistas da Umbrella, William e Annette Birkin.</string>
+    <string name="brian">Brian Irons</string>
+    <string name="brianh">É o chefe do Departamento de Polícia da cidade. Ele é um homem muito ganancioso que mantém uma relação suspeita com a Umbrella Corporation. </string>
+    <string name="annette">Annette Birkin</string>
+    <string name="annetteh">Annette é esposa de William Birkin, cientista que lidera a pesquisa com o G-vírus. Após o atentado sofrido por seu marido, ela procura desesperadamente por sua filha Sherry.</string>
+    <string name="gvirus">G-Vírus</string>
+    <string name="gh">Essa criatura na verdade é o cientista William Birkin, criador do G-Vírus. Ao ser atacado pelos soldados da U.S.S., William se injeta com uma amostra de sua criação em busca de vingança contra a Umbrella. </string>
+    <string name="croco">Crocodilo</string>
+    <string name="crocoh">Um enorme crocodilo que vive nos esgotos de Raccoon City. Possui uma natureza violenta e sofreu um grande aumento de tamanho graças aos efeitos do T-Vírus. </string>
+    <string name="tirano">Tirano (T-103)</string>
+    <string name="tiranoh">Modelo de Tirano criado a partir das pesquisas feitas com o T-102. Possui uma maior capacidade de obedecer ordens e foi enviado a Raccoon City para dar cabo de qualquer sobrevivente que pudesse ligar o incidente à Umbrella. </string>
+    <string name="suporte">Suporte</string>
+    <string name="locate">Localização da empresa</string>
+</resources>
