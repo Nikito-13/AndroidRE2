@@ -7,17 +7,38 @@
 
 * A primeira activity possui um splash screen;
 
+ ![MicrosoftTeams-image](https://github.com/Nikito-13/AndroidRE2/assets/101648676/13502ca0-8e70-4ed0-9fab-8874d22c4572)
+
+
 * Na segunda encontramos uma ImageView, 4 Buttons, TextView e uma ImageButton;
+
+![MicrosoftTeams-image (1)](https://github.com/Nikito-13/AndroidRE2/assets/101648676/48166f76-a57f-48bf-afe4-9d609f73c4d3)
+
 
 * Na activty "história", encontramos uma ImageView, TextView e ScrollView vertical;
 
+![MicrosoftTeams-image (2)](https://github.com/Nikito-13/AndroidRE2/assets/101648676/dda7df00-7b4a-40e4-acd8-51443c485303)
+ 
+ 
 * Encontramos na activity "personagens", 7 ImageView, 18 TextView, 6 Button e ScrollView na vertical;
+
+![MicrosoftTeams-image (3)](https://github.com/Nikito-13/AndroidRE2/assets/101648676/92f45d62-65cb-41b2-97ba-d104ad9f03fc)
+
 
 * A activity "boss" possui 4 ImageView, 6 TextView, 3 Button e ScrollView na vertical;
 
+![MicrosoftTeams-image (4)](https://github.com/Nikito-13/AndroidRE2/assets/101648676/d8e30b71-9681-4636-8739-b48186d1f8e0)
+
+
 * Na última activity a "extra", são utilizados 5 ImageView, 2 ImageButton, 2 Button.
 
+![MicrosoftTeams-image (5)](https://github.com/Nikito-13/AndroidRE2/assets/101648676/5d3800bf-7d7a-4c32-9431-2ffc1c4b8417)
+
+
 * Com exceção da activity menu, encontramos 2 ImageButton na parte superior das telas, o "voltar" e o "home".
+
+![MicrosoftTeams-image (6)](https://github.com/Nikito-13/AndroidRE2/assets/101648676/bd054615-0220-412f-a075-360b8412955a)
+
 
 * Existem elementos em conjunto na tela, como um Button que contém ImageView, e TextView.
 
