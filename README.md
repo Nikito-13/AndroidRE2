@@ -47,3 +47,5 @@
 Nessas telas, foram utilizadas intents explícitas para navegar entre as páginas do aplicativo. Além disso, intents implícitas foram usadas para acessar o
 site com os demais jogos da franquia, assistir ao trailer no YouTube, buscar o jogo no navegador, entrar em contato com o suporte por e-mail e encontrar a
 localização da empresa desenvolvedora.
+
+## VÍDEO COM O FUNCIONAMENTO DO APP: https://youtu.be/2TAbqk8w2pk
